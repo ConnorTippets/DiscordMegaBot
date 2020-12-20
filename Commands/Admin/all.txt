@@ -1,1 +1,2 @@
 change_status_bot
+stop_bot
